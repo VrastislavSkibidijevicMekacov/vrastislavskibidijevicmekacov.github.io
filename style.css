@@ -1,15 +1,10 @@
-td{
+table{
     border: 20px solid; width: 10px; height: 10px;
     background-color: indigo;
     border-color: gold;
     font-size: xx-large;
 }
-th{
-    border: 20px solid; width: 10px; height: 10px;
-    background-color: magenta;
-    border-color: purple;
-    font-size: xx-large;
-}
+
 body{
     background-color: darkred;
 }
