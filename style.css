@@ -4,7 +4,7 @@ td{
     border-color: gold;
     font-size: xx-large;
 }
-tr{
+th{
     border: 20px solid; width: 10px; height: 10px;
     background-color: magenta;
     border-color: purple;
