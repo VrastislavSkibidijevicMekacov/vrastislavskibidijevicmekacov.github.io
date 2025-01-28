@@ -1,9 +1,9 @@
-#title{
+.header{
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
 }
-#separator{
-    height: 15px;
-    background-color: black;
+.column side{
+    border: 20px;
+    border-color: darkgray solid;
 }
