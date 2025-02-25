@@ -79,6 +79,30 @@ section h2 {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: inline-block;
+  width: 30%;
+  margin-right: 3%;
+  vertical-align: top;
+}
+
+.service:last-child {
+  margin-right: 0;
+}
+
+.service-img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.service h3 {
+  font-size: 1.8em;
+  margin-bottom: 10px;
+}
+
+.service p {
+  font-size: 1.1em;
 }
 
 .service:hover {
