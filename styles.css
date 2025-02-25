@@ -15,7 +15,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #4CAF50;
+  background: #56bde5;
   color: white;
   padding: 20px 40px;
 }
@@ -90,7 +90,7 @@ section h2 {
 }
 
 .service-img {
-  width: 20%;
+  width: 100%;
   height: auto;
   border-radius: 8px;
   margin-bottom: 15px;
